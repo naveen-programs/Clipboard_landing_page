@@ -1,0 +1,24 @@
+ .bg-img {
+      background-image: url("./images/bg-header-desktop.png");
+      background-repeat: no-repeat;
+    }
+body {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 400; /* Normal text */
+  Font-size: 18px;
+}
+
+.bold-text {
+  font-weight: 600; /* Bold text */
+}
+footer {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 400; /* Normal text */
+  Font-size: 18px;
+}
+.footer-text{
+  color: rgb(50, 49, 49);
+  padding:20px;
+  text-decoration: none;
+}
+
